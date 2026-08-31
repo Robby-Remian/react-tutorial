@@ -1,0 +1,14 @@
+/Users/robbyremian/react-tutorial/dotnet-tutorial/bin/Debug/net7.0/dotnet-tutorial
+/Users/robbyremian/react-tutorial/dotnet-tutorial/bin/Debug/net7.0/dotnet-tutorial.deps.json
+/Users/robbyremian/react-tutorial/dotnet-tutorial/bin/Debug/net7.0/dotnet-tutorial.runtimeconfig.json
+/Users/robbyremian/react-tutorial/dotnet-tutorial/bin/Debug/net7.0/dotnet-tutorial.dll
+/Users/robbyremian/react-tutorial/dotnet-tutorial/bin/Debug/net7.0/dotnet-tutorial.pdb
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/dotnet-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/dotnet-tutorial.AssemblyInfoInputs.cache
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/dotnet-tutorial.AssemblyInfo.cs
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/dotnet-tutorial.csproj.CoreCompileInputs.cache
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/dotnet-tutorial.dll
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/refint/dotnet-tutorial.dll
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/dotnet-tutorial.pdb
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/dotnet-tutorial.genruntimeconfig.cache
+/Users/robbyremian/react-tutorial/dotnet-tutorial/obj/Debug/net7.0/ref/dotnet-tutorial.dll
